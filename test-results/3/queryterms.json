@@ -1,0 +1,182 @@
+[
+  {
+    "id": "101",
+    "text": "IG Metall",
+    "language": "de",
+    "keepOrder": true
+  },
+  {
+    "id": "102",
+    "text": "IG Metall",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": "103",
+    "text": "Industriegewerkschaft Metall",
+    "language": "de",
+    "keepOrder": false
+  },
+  {
+    "id": "201",
+    "text": "Arbeitsplatz",
+    "language": "de",
+    "keepOrder": true
+  },
+  {
+    "id": "202",
+    "text": "Arbeitsplätze",
+    "language": "de",
+    "keepOrder": true
+  },
+  {
+    "id": "203",
+    "text": "job",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": "204",
+    "text": "jobs",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": "301",
+    "text": "pollution",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": "302",
+    "text": "inquinante",
+    "language": "it",
+    "keepOrder": true
+  },
+  {
+    "id": "401",
+    "text": "lithium",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": "501",
+    "text": "close",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": "502",
+    "text": "closure",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": "503",
+    "text": "closing",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": "601",
+    "text": "Tesla",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": "602",
+    "text": "Tesla",
+    "language": "de",
+    "keepOrder": true
+  },
+  {
+    "id": "603",
+    "text": "Tesla",
+    "language": "it",
+    "keepOrder": true
+  },
+  {
+    "id": "604",
+    "text": "Tesla",
+    "language": "es",
+    "keepOrder": true
+  },
+  {
+    "id": "701",
+    "text": "Yuasa",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": "801",
+    "text": "minimal involvement",
+    "language": "en",
+    "keepOrder": false
+  },
+  {
+    "id": "901",
+    "text": "coronavirus",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": "902",
+    "text": "coronavirus",
+    "language": "es",
+    "keepOrder": true
+  },
+  {
+    "id": "903",
+    "text": "covid-19",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": "904",
+    "text": "covid-19",
+    "language": "es",
+    "keepOrder": true
+  },
+  {
+    "id": "1001",
+    "text": "muerte",
+    "language": "es",
+    "keepOrder": true
+  },
+  {
+    "id": "1101",
+    "text": "fake",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": "1102",
+    "text": "faking",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": "1201",
+    "text": "dp world",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": "1202",
+    "text": "dp world",
+    "language": "es",
+    "keepOrder": true
+  },
+  {
+    "id": "1203",
+    "text": "dp world",
+    "language": "de",
+    "keepOrder": true
+  },
+  {
+    "id": "1204",
+    "text": "Dubai Ports World",
+    "language": "en",
+    "keepOrder": true
+  }
+]

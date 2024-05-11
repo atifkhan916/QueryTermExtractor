@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suppressions PUBLIC
+    "-//Puppy Crawl//DTD Suppressions 1.0//EN"
+    "http://checkstyle.sourceforge.net/dtds/suppressions_1_0.dtd">
+<suppressions>
+    <suppress files="AppTest.java$" checks="MagicNumber" />
+    <suppress files="[a-zA-Z0-9]*.java$" checks="MissingJavadocType" />
+    <suppress files="[a-zA-Z0-9]*.java$" checks="MissingJavadocMethod" />
+    <suppress files="ExtractQueryTermsService.java$" checks="NestedForDepth" />
+</suppressions>
