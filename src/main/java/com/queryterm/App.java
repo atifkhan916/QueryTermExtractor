@@ -8,7 +8,7 @@ public final class App {
 
     public static void main(String[] args) throws Exception {
         ExtractQueryTermsService extractQueryTermsService = new ExtractQueryTermsService();
-        extractQueryTermsService.extractQueryTerms();
+        String response = extractQueryTermsService.extractQueryTerms();
     }
 
 }

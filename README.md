@@ -22,8 +22,8 @@ java -jar ./target/extractor-1.0.jar
 
 # ExtractQueryTermsService.java file is the main file containing the business logic
 # If another application wants to use it then add this project as a dependency
-# and the below code to it.
+# and use the below code to get the JSON response
 ExtractQueryTermsService extractQueryTermsService = new ExtractQueryTermsService();
-List<Response> response = extractQueryTermsService.extractQueryTerms();
+String response = extractQueryTermsService.extractQueryTerms();
 
 # For test results please see the test-results folder
